@@ -3630,6 +3630,27 @@
       "level": "Intermediate",
       "day": "Thursday",
       "id": "814b1f5e-e6df-440b-a91c-df198b5bbed2"
+    },
+    {
+      "title": "My new session",
+      "description": "This is a great session",
+      "level": "Intermediate",
+      "day": "Friday",
+      "id": "6f7ba664-b033-4421-ac6f-2dcd76acec35"
+    },
+    {
+      "title": "My new graphql session",
+      "description": "graphql description",
+      "level": "Intermediate",
+      "day": "Friday",
+      "id": "e3c0fc9b-a484-44b6-ba08-74f21a5dc314"
+    },
+    {
+      "title": "Has my cache updated?",
+      "description": "Has my cache updated?",
+      "level": "Advanced",
+      "day": "Wednesday",
+      "id": "bec7915f-1225-476e-8cad-0953d8284141"
     }
   ]
 }
